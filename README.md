@@ -1,12 +1,20 @@
+<!-- Banner de tecnologías -->
+<p align="center">
+  <img src="assets/stack-banner.png" alt="Stack: C, C#, .NET, HTML5, SQL Server, MySQL, Node.js, PHP" />
+</p>
+
 # Hi, I'm Martín! 👋👨🏻‍💻
 
-Welcome to my GitHub profile. I'm 22 years old, a self-taught junior programmer, and a programming student at **UTN Haedo**. 
+Welcome to my GitHub profile. I'm 22 years old, a self-taught junior programmer, and a programming student at 
+**[UTN Haedo](https://frh.utn.edu.ar/)**.
 
-I graduated from Technical Secondary School Nº5 with a degree in Professional and Personal Computing. 
+I graduated from **[Technical Secondary School Nº5](https://tecnica5merlo.edu.ar/wordpress/category/informatica/)** with a degree in Professional and Personal Computing.
 
-I have experience digitizing activities and interactive content for Oneclick.
+I have experience digitizing activities and interactive content for **[Oneclick](https://oneclick.es/es/)**.
 
-![hacker](https://user-images.githubusercontent.com/98673588/229406522-3a7e86f7-4644-474b-be66-9222ca95604f.gif)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/98673588/229406522-3a7e86f7-4644-474b-be66-9222ca95604f.gif" alt="hacker gif" width="100%" />
+</p>
 
 ---
 
@@ -41,8 +49,8 @@ I have experience digitizing activities and interactive content for Oneclick.
 ---
 
 # 📬 Contact
-<a href="https://linkedin.com/in/tu-linkedin" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="martin" height="30" width="40" />
+<a href="https://www.linkedin.com/in/pablo-martin-qui%C3%B1onez-gavilan-b27a36383/" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
 <a href="mailto:pablomartin.pm23@gmail.com" target="blank">
   <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="mail" height="30" width="40" />
