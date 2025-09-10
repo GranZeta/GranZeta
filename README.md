@@ -1,7 +1,4 @@
-<!-- Banner de tecnologías -->
-<p align="center">
-  <img src="assets/stack-banner.png" alt="Stack: C, C#, .NET, HTML5, SQL Server, MySQL, Node.js, PHP" />
-</p>
+
 
 # Hi, I'm Martín! 👋👨🏻‍💻
 
