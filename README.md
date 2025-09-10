@@ -1,8 +1,3 @@
-<!-- Banner de tecnologías -->
-<p align="center">
-  <img src="assets/stack-banner.png" alt="Stack: C, C#, .NET, HTML5, SQL Server, MySQL, Node.js, PHP" />
-</p>
-
 # Hola soy Pablo Martín Quiñonez! 👋👨🏻‍💻
 
 Bienvenido a mi perfil de GitHub. Tengo 22 años, soy programador junior autodidacta y estudiante de programación en 
