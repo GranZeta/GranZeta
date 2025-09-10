@@ -3,7 +3,7 @@
 Bienvenido a mi perfil de GitHub. Tengo 22 años, soy programador junior autodidacta y estudiante de programación en 
 **[UTN Haedo](https://frh.utn.edu.ar/)**.
 
-Soy egresado de la **[Escuela Secundaria Técnica Nº5](https://tecnica5merlo.edu.ar/wordpress/category/informatica/)** con el título de Licenciado en Computación Profesional y Personal.
+Soy egresado de la **[Escuela de Educación Secundaria Técnica Nº5](https://tecnica5merlo.edu.ar/wordpress/category/informatica/)** con el título de Licenciado en Computación Profesional y Personal.
 
 Tengo experiencia digitalizando actividades y contenidos interactivos para **[Oneclick](https://oneclick.es/es/)**.
 
