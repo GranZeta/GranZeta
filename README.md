@@ -2,7 +2,7 @@
 
 Bienvenidos a mi perfil de Github. Tengo 22 años, soy programador júnior, autodidacta y estudiante de Programación en **UTN Haedo**. 
 
-Tengo experiencia en digitalización de actividades y contenido interactivo para la empresa Oneclick.
+Tengo experiencia laboral en digitalización de contenido y actividades interactivas para la empresa Oneclick.
 
 ![hacker](https://user-images.githubusercontent.com/98673588/229406522-3a7e86f7-4644-474b-be66-9222ca95604f.gif)
 
