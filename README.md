@@ -84,20 +84,23 @@ Tengo experiencia digitalizando actividades y contenidos interactivos para **[On
 
 ---
 
-# 📬 Contact
-<a href="https://www.linkedin.com/in/pablo-martin-qui%C3%B1onez-gavilan-b27a36383/" target="blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" title="LinkedIn" height="30" width="40" />
-</a>&nbsp;&nbsp;&nbsp;
+## 📬 Contact
 
-<a href="mailto:pablomartin.pm23@gmail.com">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" title="Enviar correo a: pablomartin.pm23@gmail.com" height="30" width="40" />
-</a>&nbsp;&nbsp;&nbsp;
+<p align="center">
+  <a href="https://linkedin.com/in/tu-linkedin" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:pablomartin.pm23@gmail.com" target="blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="40" width="40" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://instagram.com/tu-instagram" target="blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" height="40" width="40" />
+  </a>
+</p>
 
-<a href="https://www.instagram.com/cortazx/?hl=es-la" target="blank">
-  <img align="center" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" title="Instagram: @cortazx" height="30" width="40" />
-</a>  
+<br>
 
-
-
-📩 **Email:** [pablomartin.pm23@gmail.com](mailto:pablomartin.pm23@gmail.com)
+<p align="center">
+  📧 <b>Email:</b> <a href="mailto:pablomartin.pm23@gmail.com">pablomartin.pm23@gmail.com</a>
+</p>
 
