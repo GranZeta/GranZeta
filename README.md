@@ -1,7 +1,7 @@
 # Hi, I'm Martín! 👋👨🏻‍💻
 
-Welcome to my Github profile, I'm a student at **UTN Haedo** currently studying Programming I & II in C.  
-I enjoy coding clean, well-commented programs and also love messing around with PC hardware and gaming setups.
+Bienvenidos a mi perfil de Github. Tengo 22 años, soy programador júnior, autodidacta y estudiante de Programación en **UTN Haedo**. 
+Tengo experiencia en digitalización de actividades y contenido interactivo para la empresa Oneclick.
 
 ![hacker](https://user-images.githubusercontent.com/98673588/229406522-3a7e86f7-4644-474b-be66-9222ca95604f.gif)
 
