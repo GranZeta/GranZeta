@@ -2,7 +2,7 @@
 
 # Hi, I'm Pablo Martin Quiñonez! 👋👨🏻‍💻
 
-Welcome to my GitHub profile. I'm 22 years old, a self-taught junior programmer, and a programming student at 
+Welcome to my GitHub profile. I'm 22 years old, a self-taught, junior programmer, and a programming student at 
 **[UTN Haedo](https://frh.utn.edu.ar/)**.
 
 I graduated from **[Technical Secondary School Nº5](https://tecnica5merlo.edu.ar/wordpress/category/informatica/)** with a degree in Professional and Personal Computing.
