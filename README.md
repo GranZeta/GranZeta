@@ -1,11 +1,11 @@
 # Hola soy Pablo Martín Quiñonez! 👋👨🏻‍💻
 
-Bienvenido a mi perfil de GitHub. Tengo 22 años, soy programador junior autodidacta y estudiante de programación en 
-**[UTN Haedo](https://frh.utn.edu.ar/)**.
+Bienvenido a mi perfil de GitHub. Tengo 22 años, soy programador junior, autodidacta y estudiante de programación en 
+**[UTN-Haedo](https://frh.utn.edu.ar/)**.
 
-Soy egresado de la **[Escuela de Educación Secundaria Técnica Nº5](https://tecnica5merlo.edu.ar/wordpress/category/informatica/)** con el título de Licenciado en Computación Profesional y Personal.
+🎓 Egresado de la **[Escuela de Educación Secundaria Técnica Nº5](https://tecnica5merlo.edu.ar/wordpress/category/informatica/)** con el título de Licenciado en Computación Profesional y Personal.
 
-Tengo experiencia digitalizando actividades y contenidos interactivos para **[Oneclick](https://oneclick.es/es/)**.
+💻 Tengo experiencia digitalizando actividades y contenidos interactivos para **[Oneclick](https://oneclick.es/es/)**.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/98673588/229406522-3a7e86f7-4644-474b-be66-9222ca95604f.gif" alt="hacker gif" width="100%" />
