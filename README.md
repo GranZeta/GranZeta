@@ -102,8 +102,3 @@ Tengo experiencia digitalizando actividades y contenidos interactivos para **[On
 
 📧 **Email:** [pablomartin.pm23@gmail.com](mailto:pablomartin.pm23@gmail.com)
 <br>
-
-<p align="center">
-  📧 <b>Email:</b> <a href="mailto:pablomartin.pm23@gmail.com">pablomartin.pm23@gmail.com</a>
-</p>
-
