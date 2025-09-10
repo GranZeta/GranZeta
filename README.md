@@ -1,8 +1,10 @@
 # Hi, I'm Martín! 👋👨🏻‍💻
 
-Bienvenidos a mi perfil de Github. Tengo 22 años, soy programador júnior, autodidacta y estudiante de Programación en **UTN Haedo**. 
+Welcome to my GitHub profile. I'm 22 years old, a self-taught junior programmer, and a programming student at **UTN Haedo**. 
 
-Tengo experiencia laboral en digitalización de contenido y actividades interactivas para la empresa Oneclick.
+I graduated from Technical Secondary School Nº5 with a degree in Professional and Personal Computing. 
+
+I have experience digitizing activities and interactive content for Oneclick.
 
 ![hacker](https://user-images.githubusercontent.com/98673588/229406522-3a7e86f7-4644-474b-be66-9222ca95604f.gif)
 
