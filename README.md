@@ -98,7 +98,7 @@ Tengo experiencia digitalizando actividades y contenidos interactivos para **[On
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" height="40" width="40" />
 </a>
 
-<br><br>
+<br>
 
 📧 **Email:** [pablomartin.pm23@gmail.com](mailto:pablomartin.pm23@gmail.com)
 <br>
