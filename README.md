@@ -86,7 +86,7 @@ Tengo experiencia digitalizando actividades y contenidos interactivos para **[On
 
 ## 📬 Contact
 
-<a href="https://linkedin.com/in/tu-linkedin" target="blank">
+<a href="https://www.linkedin.com/in/pablo-martin-qui%C3%B1onez-gavilan-b27a36383/" target="blank">
   <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
@@ -94,7 +94,7 @@ Tengo experiencia digitalizando actividades y contenidos interactivos para **[On
   <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Gmail" height="40" width="40" />
 </a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-<a href="https://instagram.com/tu-instagram" target="blank">
+<a href="https://www.instagram.com/cortazx/?hl=es-la" target="blank">
   <img src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" alt="Instagram" height="40" width="40" />
 </a>
 
